@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dakshyadav/Desktop/infonetica/InfoneticaWorkflowEngine/InfoneticaWorkflowEngine.csproj",
+      "projectUniqueName": "/Users/dakshyadav/Desktop/infonetica/infonetica/InfoneticaWorkflowEngine.csproj",
       "projectName": "InfoneticaWorkflowEngine",
-      "projectPath": "/Users/dakshyadav/Desktop/infonetica/InfoneticaWorkflowEngine/InfoneticaWorkflowEngine.csproj",
+      "projectPath": "/Users/dakshyadav/Desktop/infonetica/infonetica/InfoneticaWorkflowEngine.csproj",
       "packagesPath": "/Users/dakshyadav/.nuget/packages/",
-      "outputPath": "/Users/dakshyadav/Desktop/infonetica/InfoneticaWorkflowEngine/obj/",
+      "outputPath": "/Users/dakshyadav/Desktop/infonetica/infonetica/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dakshyadav/.nuget/NuGet/NuGet.Config"
