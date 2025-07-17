@@ -1,4 +1,4 @@
-# Infonetica Workflow Engine
+# Infonetica Workflow Engine - Daksh Yadav (23BT10010) - IIT KGP
 
 A configurable state machine workflow engine built with .NET Minimal APIs. This service allows you to create workflow blueprints (templates) and run workflow instances that transition through predefined states based on configured actions.
 
